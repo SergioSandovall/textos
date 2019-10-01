@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Primera parte del texto 
+=======
+inicio de la historial 
+
+segunda parte de la historia 
+>>>>>>> texto2
